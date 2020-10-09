@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <mail>Wael_Mohamed</mail>
+    <password>123</password>
+    <complaints_ToDotctors>
+      <string>I'm So proud to You </string>
+      <string>Lab Time Is to small </string>
+    </complaints_ToDotctors>
+    <Replaies_From_Doctors>
+      <string>Thanks . 
+dr Wael</string>
+      <string>I will  Increase Lab time
+Dr . Wael 
+</string>
+    </Replaies_From_Doctors>
+    <complaints_ToOfficers />
+    <Replaies_From_Officers />
+  </Student>
+  <Student>
+    <mail>Wael</mail>
+    <password>789</password>
+    <complaints_ToDotctors>
+      <string>I have one question .. What about lec 5 on OS .. applaied ?</string>
+    </complaints_ToDotctors>
+    <Replaies_From_Doctors>
+      <string>Applaied</string>
+    </Replaies_From_Doctors>
+    <complaints_ToOfficers />
+    <Replaies_From_Officers />
+  </Student>
+  <Student>
+    <mail>Saif</mail>
+    <password>000</password>
+    <complaints_ToDotctors />
+    <Replaies_From_Doctors />
+    <complaints_ToOfficers>
+      <string>I needed to know what paper was required to pay the expenses</string>
+    </complaints_ToOfficers>
+    <Replaies_From_Officers>
+      <string>Form 3 Soldier, 2 Soldier Form and 3 Birth Certificate</string>
+    </Replaies_From_Officers>
+  </Student>
+  <Student>
+    <mail>asmaa</mail>
+    <password>123</password>
+    <complaints_ToDotctors>
+      <string>too late</string>
+      <string>siuvwnn osjoj</string>
+      <string>there is old Halls</string>
+    </complaints_ToDotctors>
+    <Replaies_From_Doctors>
+      <string>l</string>
+      <string>Which Your Language !</string>
+      <string>we will be work in this problem soon</string>
+    </Replaies_From_Doctors>
+    <complaints_ToOfficers>
+      <string>can us use internet </string>
+      <string>there is old Halls</string>
+    </complaints_ToOfficers>
+    <Replaies_From_Officers>
+      <string>Ok !</string>
+      <string>This complaint has not yet been Replaied </string>
+    </Replaies_From_Officers>
+  </Student>
+  <Student>
+    <mail>aa</mail>
+    <password>11</password>
+    <complaints_ToDotctors />
+    <Replaies_From_Doctors />
+    <complaints_ToOfficers />
+    <Replaies_From_Officers />
+  </Student>
+  <Student>
+    <mail>Heba</mail>
+    <password>123</password>
+    <complaints_ToDotctors>
+      <string>AI is very hard</string>
+    </complaints_ToDotctors>
+    <Replaies_From_Doctors>
+      <string>Ai Is very easy</string>
+    </Replaies_From_Doctors>
+    <complaints_ToOfficers />
+    <Replaies_From_Officers />
+  </Student>
+</ArrayOfStudent>

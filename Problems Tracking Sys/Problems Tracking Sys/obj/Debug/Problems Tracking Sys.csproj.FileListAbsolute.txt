@@ -1,0 +1,166 @@
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe.config
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.pdb
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csprojResolveAssemblyReference.cache
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Form1.resources
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Properties.Resources.resources
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csproj.GenerateResource.Cache
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.exe
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.pdb
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Doctor_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Officer_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Dean_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_Affairs_Officer_formcs.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe.config
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.exe
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.pdb
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.pdb
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Data.v18.2.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Utils.v18.2.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Data.v18.2.xml
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Utils.v18.2.xml
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csprojResolveAssemblyReference.cache
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Dean_form.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Doctor_form.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Form1.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Officer_form.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Properties.Resources.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_Affairs_Officer_formcs.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_form.resources
+D:\MY COLLEGE\third year (2)\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csproj.GenerateResource.Cache
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe.config
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.pdb
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Data.v18.2.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Utils.v18.2.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Data.v18.2.xml
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Utils.v18.2.xml
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csprojResolveAssemblyReference.cache
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Dean_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Doctor_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Form1.resources
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Officer_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Properties.Resources.resources
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_Affairs_Officer_formcs.resources
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_form.resources
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csproj.GenerateResource.Cache
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.exe
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.pdb
+E:\Computer Science\1-matrial\Analysis\Project\New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.exe.licenses
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe.config
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.exe
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\Problems Tracking Sys.pdb
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Data.v18.2.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Utils.v18.2.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Data.v18.2.xml
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Utils.v18.2.xml
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csprojResolveAssemblyReference.cache
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Dean_form.resources
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Doctor_form.resources
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Form1.resources
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Officer_form.resources
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Properties.Resources.resources
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_Affairs_Officer_formcs.resources
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems_Tracking_Sys.Student_form.resources
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.csproj.GenerateResource.Cache
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.exe.licenses
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.exe
+E:\Computer Science\My Projects\Problems Tracking Sys New Design\Problems Tracking Sys\Problems Tracking Sys\obj\Debug\Problems Tracking Sys.pdb

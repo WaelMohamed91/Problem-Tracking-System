@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<ArrayOfDoctor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctor>
+    <mail>Wael</mail>
+    <password>123</password>
+    <complaints>
+      <string>Time of My Lecture is too late </string>
+      <string>dkld</string>
+      <string>I 'm very tired due to schedual times </string>
+    </complaints>
+    <Replaies>
+      <string>No Is a balanced Time !</string>
+      <string>Which Your Language </string>
+      <string>This complaint has not yet been Replaied </string>
+    </Replaies>
+  </Doctor>
+  <Doctor>
+    <mail>Wael_Mohamed</mail>
+    <password>789</password>
+    <complaints />
+    <Replaies />
+  </Doctor>
+  <Doctor>
+    <mail>Saif</mail>
+    <password>000</password>
+    <complaints>
+      <string>i Can not go to my lectures current Week </string>
+    </complaints>
+    <Replaies>
+      <string>Ok </string>
+    </Replaies>
+  </Doctor>
+  <Doctor>
+    <mail>asmaa</mail>
+    <password>123</password>
+    <complaints />
+    <Replaies />
+  </Doctor>
+  <Doctor>
+    <mail>aaa</mail>
+    <password>111</password>
+    <complaints />
+    <Replaies />
+  </Doctor>
+  <Doctor>
+    <mail>Wael2</mail>
+    <password>123</password>
+    <complaints>
+      <string>I need to meet You as Quickly as possible !</string>
+    </complaints>
+    <Replaies>
+      <string>Ok </string>
+    </Replaies>
+  </Doctor>
+  <Doctor>
+    <mail>Ali_Taha@gmail.com</mail>
+    <password>123</password>
+    <complaints>
+      <string>This a System wes55555555555555555555</string>
+    </complaints>
+    <Replaies>
+      <string>which your language !</string>
+    </Replaies>
+  </Doctor>
+</ArrayOfDoctor>
